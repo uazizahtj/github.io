@@ -50,7 +50,3 @@ button:hover {
 .operator:hover, .equal-sign:hover {
   background-color: darkpurple;
 }
-
-body {
-  background-image: url("paper.gif");
-}
