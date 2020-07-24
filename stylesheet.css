@@ -1,3 +1,7 @@
+body {
+  background-image: url("paper.gif");
+}
+
 .calculator {
   text-align: center;
   margin: 0 auto;
